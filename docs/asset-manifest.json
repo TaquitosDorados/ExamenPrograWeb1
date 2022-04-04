@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f577d9b.css",
+    "main.js": "/static/js/main.ef30c1a5.js",
+    "static/media/tijera.png": "/static/media/tijera.5fc9d3b0c0f21e36f913.png",
+    "static/media/piedra.png": "/static/media/piedra.5c0a4c8a2c6d1ef795a6.png",
+    "index.html": "/index.html",
+    "main.5f577d9b.css.map": "/static/css/main.5f577d9b.css.map",
+    "main.ef30c1a5.js.map": "/static/js/main.ef30c1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f577d9b.css",
+    "static/js/main.ef30c1a5.js"
+  ]
+}
