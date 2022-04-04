@@ -115,7 +115,7 @@ function darPuntos(yo, elotro){
             return 0;
         }
     } else if(elotro==2){
-        if(yo==2){
+        if(yo===2){
             return 0;
         } else if (yo == 3){
             return 1;
